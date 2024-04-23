@@ -1,0 +1,1 @@
+Media Transcoder is a web app that provides encode/decode media to different res, bitrates, formats etc
